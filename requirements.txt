@@ -2,4 +2,4 @@ autodistill
 autodistill_clip
 autodistill_grounded_sam
 supervision
-opencv-python
+roboflow
